@@ -12,8 +12,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-[new.txt](https://github.com/0x1O001/flowe_r_idge/files/6777873/new.txt)
-
 - Bulleted
 - List
 
